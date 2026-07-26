@@ -5,7 +5,7 @@ An interactive Power BI dashboard developed to analyze housing sales trends, pro
 ## 📊 Dashboard Overview
 The dashboard provides key insights into the real estate market, featuring dynamic KPIs, multi-property trend tracking, and geographic pricing distributions.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard%20Real%20State.png)
 
 ## 🚀 Key Features & KPIs
 * **Total Sales:** Overview of total transactions recorded in the dataset ($5.00K).
